@@ -179,6 +179,8 @@ Magi 的诞生离不开开源社区和早期支持者的帮助。
 
 无论是功能建议、Bug 反馈还是商务合作，欢迎随时交流。
 
+**想要抢先体验的同学，请扫码加微信进群：**
+
 <div align="center">
 <img src="image/wechat.JPG" alt="微信联系" width="200" />
 </div>
