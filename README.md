@@ -91,9 +91,9 @@ Magi 提供 3 个可高度定制的 Worker 槽位。你可以根据模型特长�
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%"><b>🧠 逻辑专家</b><br/>(e.g., Claude Code Sonnet/Opus 4.5/4.6)</td>
-<td align="center" width="33%"><b>⚡️ 速度专家</b><br/>(e.g., Gemini 2.5 Pro/3.0 Pro)</td>
-<td align="center" width="33%"><b>💻 编程专家</b><br/>(e.g., Codex 5.2/5.3)</td>
+<td align="center" width="33%"><b>🧠 架构与规划</b><br/>(e.g., Claude Code Sonnet/Opus 4.5/4.6)<br/><br/><i>擅长：系统设计、复杂逻辑分析、技术方案评审</i></td>
+<td align="center" width="33%"><b>🎨 前端与文本</b><br/>(e.g., Gemini 2.5 Pro/3.0 Pro)<br/><br/><i>擅长：UI/UX 实现、文档撰写、创意文案生成</i></td>
+<td align="center" width="33%"><b>🛠 排查与修复</b><br/>(e.g., Codex 5.2/5.3)<br/><br/><i>擅长：Bug 修复、代码重构、单元测试补全</i></td>
 </tr>
 <tr>
 <td colspan="3" align="center">
@@ -182,5 +182,10 @@ Magi 的诞生离不开开源社区和早期支持者的帮助。
 **想要抢先体验的同学，请扫码加微信进群：**
 
 <div align="center">
-<img src="image/wechat.JPG" alt="微信联系" width="200" />
+  <img src="image/image.png" alt="Magi 交流群" width="280" />
+  <br/>
+  <br/>
+  <sub>如有问题或需商务合作，可联系个人微信：</sub>
+  <br/>
+  <img src="image/wechat.png" alt="个人微信" width="120" />
 </div>
